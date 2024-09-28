@@ -1,0 +1,6 @@
+streamlit
+Pillow
+exifread
+folium
+streamlit-folium
+pluscodes
